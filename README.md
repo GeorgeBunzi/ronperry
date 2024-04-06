@@ -1,6 +1,6 @@
 # Instruction Files for Ron Perry
 
-1.## WordPress
+## 1.WordPress
 ## Images
 ## Fonts
 ## Emails
