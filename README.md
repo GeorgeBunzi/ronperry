@@ -19,7 +19,8 @@
 
 ## V. FTP
 
-Install FileZilla (client version only)
+** Install FileZilla ** (client version only)
+
 https://filezilla-project.org/
 
 Set up the domain to be hosted on DreamHost (make it a live website, all domains must have a site before it can be viewed publicly)
