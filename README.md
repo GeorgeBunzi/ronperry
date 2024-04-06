@@ -19,11 +19,12 @@
 
 ## V. FTP
 
-#### A) FTP Installation #### 
+### A) FTP Installation ### 
 - Install client version only
 - Download from https://filezilla-project.org/
 
-Set up the domain to be hosted on DreamHost (make it a live website, all domains must have a site before it can be viewed publicly)
+### B)Set up domain to be hosted on DreamHost ### 
+(make it a live website, all domains must have a site before it can be viewed publicly)
 - Log onto dreamhost.com
 - Click on Websites (on the left menu)
 - Click on Manage Websites (all the websites will display on the right - if the domain has a globe, then it is just a domain and not yet set up to be a site)
