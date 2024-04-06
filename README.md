@@ -6,3 +6,10 @@
 ## Emails
 ## FTP
 
+---
+
+## WordPress
+## Images
+## Fonts
+## Emails
+## FTP
